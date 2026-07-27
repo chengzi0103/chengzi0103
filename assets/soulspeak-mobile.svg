@@ -1,0 +1,33 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B12"/>
+      <stop offset="1" stop-color="#160B25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="45" y1="30" x2="676" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6"/>
+    </linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="718.5" height="418.5" rx="27.25" fill="url(#bg)" stroke="url(#accent)" stroke-opacity=".48" stroke-width="1.5"/>
+  <rect x="22" y="22" width="676" height="376" rx="20" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <text x="50" y="73" fill="#A78BFA" font-size="13" font-weight="700" letter-spacing="2.6">FEATURED / 01</text>
+    <circle cx="651" cy="64" r="24" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="651" y="72" text-anchor="middle" fill="#F8FAFC" font-size="24">↗</text>
+
+    <text x="48" y="151" fill="#F8FAFC" font-size="52" font-weight="760" letter-spacing="-1">SoulSpeak</text>
+    <text x="49" y="197" fill="#C1C4CC" font-size="20">Real-time voice AI with memory,</text>
+    <text x="49" y="228" fill="#C1C4CC" font-size="20">modular speech, and natural interruption.</text>
+
+    <path d="M50 278H70L83 248L99 315L116 232L134 327L153 263L171 302L190 271L208 291L227 278H254" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <rect x="49" y="346" width="100" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".28"/>
+    <text x="99" y="367" text-anchor="middle" fill="#C4B5FD" font-size="12" font-weight="650" letter-spacing="1">VOICE AI</text>
+    <rect x="159" y="346" width="100" height="32" rx="16" fill="#F472B6" fill-opacity=".08" stroke="#F472B6" stroke-opacity=".22"/>
+    <text x="209" y="367" text-anchor="middle" fill="#F9A8D4" font-size="12" font-weight="650" letter-spacing="1">MEMORY</text>
+    <rect x="269" y="346" width="122" height="32" rx="16" fill="#FFFFFF" fill-opacity=".04" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="330" y="367" text-anchor="middle" fill="#D1D5DB" font-size="12" font-weight="650" letter-spacing="1">WEBSOCKET</text>
+  </g>
+</svg>

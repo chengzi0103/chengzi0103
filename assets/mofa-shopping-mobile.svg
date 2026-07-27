@@ -1,0 +1,42 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071111"/>
+      <stop offset="1" stop-color="#071B25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="45" y1="30" x2="676" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#34D399"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="718.5" height="418.5" rx="27.25" fill="url(#bg)" stroke="url(#accent)" stroke-opacity=".46" stroke-width="1.5"/>
+  <rect x="22" y="22" width="676" height="376" rx="20" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <text x="50" y="73" fill="#34D399" font-size="13" font-weight="700" letter-spacing="2.6">FEATURED / 02</text>
+    <circle cx="651" cy="64" r="24" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="651" y="72" text-anchor="middle" fill="#F8FAFC" font-size="24">↗</text>
+
+    <text x="48" y="151" fill="#F8FAFC" font-size="52" font-weight="760" letter-spacing="-1">MOFA Shopping</text>
+    <text x="49" y="197" fill="#C1C4CC" font-size="20">Multi-agent product dataflows turned</text>
+    <text x="49" y="228" fill="#C1C4CC" font-size="20">into focused, personalized decisions.</text>
+
+    <g stroke-linecap="round">
+      <path d="M62 285L123 252L184 285L241 245M123 252L142 318M184 285L231 326M142 318L231 326" stroke="#FFFFFF" stroke-opacity=".14"/>
+      <path d="M62 285L123 252L184 285L241 245" stroke="url(#accent)" stroke-opacity=".75" stroke-width="2"/>
+      <circle cx="62" cy="285" r="8" fill="#0B1B19" stroke="#34D399" stroke-width="2"/>
+      <circle cx="123" cy="252" r="7" fill="#0B1719" stroke="#2DD4BF" stroke-width="2"/>
+      <circle cx="184" cy="285" r="10" fill="#09151B" stroke="#22D3EE" stroke-width="2"/>
+      <circle cx="241" cy="245" r="7" fill="#09151B" stroke="#67E8F9" stroke-width="2"/>
+      <circle cx="142" cy="318" r="6" fill="#0B1719" stroke="#34D399" stroke-opacity=".8" stroke-width="2"/>
+      <circle cx="231" cy="326" r="8" fill="#09151B" stroke="#22D3EE" stroke-opacity=".85" stroke-width="2"/>
+    </g>
+
+    <rect x="49" y="346" width="126" height="32" rx="16" fill="#34D399" fill-opacity=".08" stroke="#34D399" stroke-opacity=".24"/>
+    <text x="112" y="367" text-anchor="middle" fill="#6EE7B7" font-size="12" font-weight="650" letter-spacing="1">MULTI-AGENT</text>
+    <rect x="185" y="346" width="100" height="32" rx="16" fill="#22D3EE" fill-opacity=".08" stroke="#22D3EE" stroke-opacity=".22"/>
+    <text x="235" y="367" text-anchor="middle" fill="#67E8F9" font-size="12" font-weight="650" letter-spacing="1">DORA-RS</text>
+    <rect x="295" y="346" width="98" height="32" rx="16" fill="#FFFFFF" fill-opacity=".04" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="344" y="367" text-anchor="middle" fill="#D1D5DB" font-size="12" font-weight="650" letter-spacing="1">PYTHON</text>
+  </g>
+</svg>

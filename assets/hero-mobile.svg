@@ -1,0 +1,55 @@
+<svg width="720" height="590" viewBox="0 0 720 590" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="frame" x1="30" y1="20" x2="690" y2="570" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" stop-opacity=".75"/>
+      <stop offset=".5" stop-color="#334155" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity=".65"/>
+    </linearGradient>
+    <radialGradient id="violet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(170 30) rotate(75) scale(390 420)">
+      <stop stop-color="#7C3AED" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="emerald" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(690 500) rotate(180) scale(350)">
+      <stop stop-color="#059669" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#059669" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="470" y1="35" x2="690" y2="228" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="720" height="590" rx="32" fill="#05070A"/>
+  <rect width="720" height="590" rx="32" fill="url(#violet)"/>
+  <rect width="720" height="590" rx="32" fill="url(#emerald)"/>
+  <rect x=".75" y=".75" width="718.5" height="588.5" rx="31.25" stroke="url(#frame)" stroke-width="1.5"/>
+  <rect x="24" y="24" width="672" height="542" rx="22" fill="url(#grid)" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <g>
+    <circle cx="574" cy="141" r="88" stroke="#FFFFFF" stroke-opacity=".06"/>
+    <circle cx="574" cy="141" r="62" stroke="url(#orbit)" stroke-opacity=".42" stroke-dasharray="3 8"/>
+    <ellipse cx="574" cy="141" rx="102" ry="38" transform="rotate(-20 574 141)" stroke="url(#orbit)" stroke-opacity=".55"/>
+    <ellipse cx="574" cy="141" rx="102" ry="38" transform="rotate(67 574 141)" stroke="url(#orbit)" stroke-opacity=".28"/>
+    <circle cx="574" cy="141" r="38" fill="#0B0E13" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <text x="574" y="150" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="24" font-weight="750">CZ</text>
+    <circle cx="492" cy="110" r="4" fill="#C4B5FD"/>
+    <circle cx="656" cy="113" r="4" fill="#6EE7B7"/>
+    <circle cx="608" cy="223" r="4" fill="#5EEAD4"/>
+  </g>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <rect x="58" y="67" width="182" height="30" rx="15" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <circle cx="76" cy="82" r="4" fill="#34D399"/>
+    <text x="90" y="87" fill="#C4C7CE" font-size="12" font-weight="650" letter-spacing="2.2">CHEN ZI / 2026</text>
+
+    <text x="56" y="310" fill="#F8FAFC" font-size="61" font-weight="780" letter-spacing="-2.5">AGENTIC</text>
+    <text x="56" y="375" fill="#DFDFEA" font-size="61" font-weight="780" letter-spacing="-2.5">SYSTEMS</text>
+    <text x="59" y="425" fill="#F8FAFC" font-size="22" font-weight="540" letter-spacing="5.1">FOR THE REAL WORLD</text>
+    <line x1="59" y1="461" x2="660" y2="461" stroke="#FFFFFF" stroke-opacity=".11"/>
+    <text x="59" y="502" fill="#B0B4BD" font-size="15" font-weight="570" letter-spacing="1.45">AI AGENTS · VOICE AI · PRODUCT ENGINEERING</text>
+    <text x="59" y="535" fill="#737985" font-size="14">Observe deeply. Execute with care.</text>
+  </g>
+</svg>
