@@ -1,0 +1,36 @@
+<svg width="720" height="420" viewBox="0 0 720 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="720" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#120B08"/>
+      <stop offset="1" stop-color="#211006"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="45" y1="30" x2="676" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#FACC15"/>
+    </linearGradient>
+  </defs>
+  <rect x=".75" y=".75" width="718.5" height="418.5" rx="27.25" fill="url(#bg)" stroke="url(#accent)" stroke-opacity=".5" stroke-width="1.5"/>
+  <rect x="22" y="22" width="676" height="376" rx="20" stroke="#FFFFFF" stroke-opacity=".06"/>
+
+  <g font-family="ui-sans-serif, system-ui, sans-serif">
+    <text x="50" y="73" fill="#FB923C" font-size="13" font-weight="700" letter-spacing="2.6">NATIVE APP / 03</text>
+    <circle cx="651" cy="64" r="24" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="651" y="72" text-anchor="middle" fill="#F8FAFC" font-size="24">↗</text>
+
+    <text x="48" y="151" fill="#F8FAFC" font-size="52" font-weight="760" letter-spacing="-1">BoltLauncher</text>
+    <text x="49" y="197" fill="#C9C3BD" font-size="20">Global hotkeys for instant macOS app</text>
+    <text x="49" y="228" fill="#C9C3BD" font-size="20">launching, toggling, and local tracking.</text>
+
+    <rect x="49" y="346" width="94" height="32" rx="16" fill="#FB923C" fill-opacity=".1" stroke="#FB923C" stroke-opacity=".28"/>
+    <text x="96" y="367" text-anchor="middle" fill="#FDBA74" font-size="12" font-weight="650" letter-spacing="1">MACOS</text>
+    <rect x="153" y="346" width="88" height="32" rx="16" fill="#FACC15" fill-opacity=".08" stroke="#FACC15" stroke-opacity=".22"/>
+    <text x="197" y="367" text-anchor="middle" fill="#FDE68A" font-size="12" font-weight="650" letter-spacing="1">SWIFT</text>
+    <rect x="251" y="346" width="100" height="32" rx="16" fill="#FFFFFF" fill-opacity=".04" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <text x="301" y="367" text-anchor="middle" fill="#D1D5DB" font-size="12" font-weight="650" letter-spacing="1">SQLITE</text>
+  </g>
+
+  <g transform="translate(492 250)">
+    <rect width="110" height="80" rx="24" fill="#FFFFFF" fill-opacity=".035" stroke="#FFFFFF" stroke-opacity=".1"/>
+    <path d="M59 13L34 45H52L46 69L76 35H57L59 13Z" fill="url(#accent)"/>
+  </g>
+</svg>

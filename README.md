@@ -30,7 +30,7 @@ Agentic software for work that has context, constraints, and consequences.
 
 - Multi-agent orchestration and tool-using workflows
 - Real-time voice AI with memory and interruption
-- Decision-support products with observable execution
+- Native apps and focused digital products
 
 </td>
 <td width="42%" valign="top">
@@ -47,7 +47,7 @@ I care about the full path from an idea to a product that can be tested, trusted
 </tr>
 </table>
 
-## Selected work
+## Products & Apps
 
 <a href="https://github.com/chengzi0103/SoulSpeak">
   <picture>
@@ -65,16 +65,34 @@ I care about the full path from an idea to a product that can be tested, trusted
   </picture>
 </a>
 
+<br />
+
+<a href="https://github.com/YarnBall-CC/boltlauncher">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/boltlauncher-mobile.svg" />
+    <img src="./assets/boltlauncher.svg" width="100%" alt="BoltLauncher — native macOS hotkey app launcher" />
+  </picture>
+</a>
+
+<br />
+
+<a href="https://xiayebloom.com/">
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/xiayebloom-mobile.svg" />
+    <img src="./assets/xiayebloom.svg" width="100%" alt="Xiayebloom — handcrafted Ronghua digital experience" />
+  </picture>
+</a>
+
 ## Working stack
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=F8FAFC" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-111827?style=for-the-badge&logo=swift&logoColor=F97316" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA" />
   <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=67E8F9" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=34D399" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=93C5FD" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=60A5FA" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-111827?style=for-the-badge&logo=githubactions&logoColor=A78BFA" />
 </p>
 
 ```text
@@ -85,6 +103,6 @@ observe(context) → reason(constraints) → simulate(outcomes) → execute(safe
 
 ### Build systems with memory, judgment, and real-world consequences.
 
-Explore the repositories below, or start with [SoulSpeak](https://github.com/chengzi0103/SoulSpeak).
+Explore the products above, or start with [SoulSpeak](https://github.com/chengzi0103/SoulSpeak).
 
 </div>
